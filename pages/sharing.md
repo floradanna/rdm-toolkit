@@ -30,7 +30,6 @@ Data Management Planning will facilitate the progress of your project, as you ca
     - Data with potential economic/commercial value.
 If you want to close or restrict access to your datasets, you must explain your ethical and/or legal issues in the Data Management Plan. You can ask help to the Legal Team, Tech Transfer Office or Data Protection Officer of your institute.
 
-## When?
 Does not have to happen immediately, while you are still working on the project. Data can be shared after your scientific paper is published.
 
 ## How?
